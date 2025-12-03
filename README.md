@@ -34,5 +34,3 @@ Beyond coding, I explore:
 - 💼 [LinkedIn](https://www.linkedin.com/in/raf-pllz/)
 - 🧠 [GitHub Projects](https://github.com/raf-pllz)
 ---
-
-I like femboys
