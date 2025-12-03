@@ -7,7 +7,7 @@
 ### 💻 What I Do
 I focus on connecting **modern UI/UX** with **functional application logic**, using:
 - 🐍 **Python (PyQt / WebEngine)** – creating desktop apps with web-based interfaces  
-- 🌐 **HTML, CSS & JavaScript** – crafting responsive and minimal web designs  
+- 🌐 **HTML, CSS & JavaScript** – crafting responsive and minimal web desings  
 - 🧠 **UI/UX Prototyping** – designing layouts in **Figma** before implementing them in code  
 
 I enjoy experimenting with **hybrid app structures**, where HTML/CSS interfaces interact seamlessly with Python backends for dynamic, cross-platform experiences.
@@ -33,5 +33,6 @@ Beyond coding, I explore:
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/raf-pllz/)
 - 🧠 [GitHub Projects](https://github.com/raf-pllz)
-
 ---
+
+I like femboys
