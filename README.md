@@ -6,7 +6,7 @@
 
 ### 💻 What I Do
 I focus on connecting **modern UI/UX** with **functional application logic**, using:
-- 🐍 **Python** : creating CLI apps with web-based interfaces  
+- 🐍 **Python** : creating CLI apps.
 - 🌐 **HTML, CSS & JavaScript** : crafting responsive and minimal web desings  
 - 🧠 **UI/UX Prototyping** : designing layouts in **Figma** before implementing them in code  
 
